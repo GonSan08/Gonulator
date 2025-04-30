@@ -1,0 +1,21 @@
+{
+    "name": "Calculadora simples",
+    "short_name": "MyCalc",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+        {
+            "src": "icons/icon2.png",
+            "sizes": "710x717",
+            "type": "image/png"
+          },
+        {
+            "src": "icons/icon1.png",
+            "sizes": "710x709",
+            "type": "image/png"
+        }
+    ]
+}
